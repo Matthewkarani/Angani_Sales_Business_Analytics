@@ -1,0 +1,25 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Field Name,Description,Data Type
+,,,OrderNumber,Unique identifier for each order,Integer
+,,,QuantityOrdered,Number of units ordered for a specific product,Integer
+,,,PriceEach,Price per unit of the product,Decimal
+,,,OrderLineNumber,Line number of the product in the order (to distinguish items),Integer
+,,,Sales,Total sales amount for the order line,Decimal
+,,,OrderDate,Date the order was placed,Date
+,,,Status,"Current status of the order (e.g., Shipped, Cancelled, Pending)",Text
+,,,QTR_ID,Quarter in which the order was placed,Integer
+,,,DAY_ID,Day in which the order was placed,Integer
+,,,MONTH_ID,Month in which the order was placed,Integer
+,,,YEAR_ID,Year in which the order was placed,Integer
+,,,ProductLine,Product category or line,Text
+,,,MSRP,Manufacturer's Suggested Retail Price for the product,Decimal
+,,,ProductCode,Unique code identifying the product,Text
+,,,CustomerName,Full name of the customer placing the order,Text
+,,,Phone,Customer's contact phone number,Text
+,,,AddressLine1,First line of the customer's address,Text
+,,,City,City where the customer is located,Text
+,,,PostalCode,Postal or ZIP code of the customer's address,Text
+,,,Country,Country where the customer is located,Text
+,,,Territory,Geographical sales territory for the customer,Text
+,,,ContactLastName,Last name of the customer contact person,Text
+,,,ContactFirstName,First name of the customer contact person,Text
+,,,Branch,Branch or location handling the order,Text
