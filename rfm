@@ -1,0 +1,93 @@
+CustomerName,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,RFM_Level,Cluster
+Euro Shopping Channel,0,25,766195.05,4,4,4,444,Best Customers,Cluster 3
+La Rochelle Gifts,0,4,153909.82,4,1,4,414,Best Customers,Cluster 1
+Diecast Classics Inc.,1,4,96378.27,4,1,3,413,Best Customers,Cluster 1
+Petit Auto,1,3,68568.18,4,1,2,412,Best Customers,Cluster 1
+Mini Gifts Distributors Ltd.,2,17,530587.19,4,3,4,434,Best Customers,Cluster 3
+Souveniers And Things Co.,2,4,133223.38,4,1,4,414,Best Customers,Cluster 1
+Salzburg Collectables,14,4,126287.85,4,1,4,414,Best Customers,Cluster 1
+L ordine Souveniers,21,3,109614.22,4,1,4,414,Best Customers,Cluster 1
+Australian Collectables  Ltd,22,3,56139.619999999995,4,1,1,411,Best Customers,Cluster 1
+Gifts4AllAges.com,25,3,77547.62,4,1,3,413,Best Customers,Cluster 1
+Gift Depot Inc.,26,3,79021.41,4,1,3,413,Best Customers,Cluster 1
+Quebec Home Shopping Network,30,3,61414.1,4,1,2,412,Best Customers,Cluster 1
+Handji Gifts& Co,38,4,96705.55,4,1,4,414,Best Customers,Cluster 1
+The Sharp Gifts Warehouse,39,4,136383.04,4,1,4,414,Best Customers,Cluster 1
+Tokyo Collectables  Ltd,39,4,97456.04000000001,4,1,4,414,Best Customers,Cluster 1
+Danish Wholesale Imports,46,5,115268.84,4,1,4,414,Best Customers,Cluster 1
+Mini Caravy,47,3,65824.33,4,1,2,412,Best Customers,Cluster 1
+UK Collectables  Ltd.,53,3,93250.59,4,1,3,413,Best Customers,Cluster 1
+Auto Canal Petit,54,3,79857.6,4,1,3,413,Best Customers,Cluster 1
+Tekni Collectables Inc.,58,3,75587.42,4,1,3,413,Best Customers,Cluster 1
+Reims Collectables,62,5,116502.73,4,1,4,414,Best Customers,Cluster 1
+Alpha Cognac,64,3,58885.28,4,1,2,412,Best Customers,Cluster 1
+Lyon Souveniers,75,3,59136.7,4,1,2,412,Best Customers,Cluster 1
+Mini Auto Werke,82,3,46505.2,3,1,1,311,Best Customers,Cluster 1
+Anna s Decorations  Ltd,83,4,121260.41,3,1,4,314,Best Customers,Cluster 1
+Scandinavian Gift Ideas,89,3,115889.89,3,1,4,314,Best Customers,Cluster 1
+FunGiftIdeas.com,89,3,77027.44,3,1,3,313,Best Customers,Cluster 1
+Dragon Souveniers  Ltd.,90,5,131279.95,3,1,4,314,Best Customers,Cluster 1
+Corporate Gift Ideas Co.,98,4,118844.95,3,1,4,314,Best Customers,Cluster 1
+Toys of Finland  Co.,112,3,89199.15,3,1,3,313,Best Customers,Cluster 1
+Boards & Toys Co.,113,2,8642.15,3,1,1,311,Best Customers,Cluster 1
+Australian Gift Network  Co,119,3,46399.18,3,1,1,311,Best Customers,Cluster 1
+Oulu Toy Supplies  Inc.,121,3,90762.29,3,1,3,313,Best Customers,Cluster 1
+Collectables For Less Inc.,132,3,67164.37,3,1,2,312,Best Customers,Cluster 1
+Toys4GrownUps.com,140,3,86224.95,3,1,3,313,Best Customers,Cluster 1
+Royale Belge,142,4,25960.7,3,1,1,311,Best Customers,Cluster 1
+Mini Creations Ltd.,145,3,95672.21,3,1,3,313,Best Customers,Cluster 1
+Suominen Souveniers,146,3,88753.26,3,1,3,313,Best Customers,Cluster 1
+Marseille Mini Autos,146,3,61161.12,3,1,2,312,Best Customers,Cluster 1
+Technics Stores Inc.,147,4,102489.13,3,1,4,314,Best Customers,Cluster 1
+Gift Ideas Corp.,179,3,52681.08,3,1,1,311,Best Customers,Cluster 1
+Stylish Desk Decors  Co.,180,3,78358.6,3,1,3,313,Best Customers,Cluster 1
+Auto-Moto Classics Inc.,180,3,25596.16,3,1,1,311,Best Customers,Cluster 1
+Muscle Machine Inc,182,4,151782.04,3,1,4,314,Best Customers,Cluster 1
+Australian Collectors  Co.,184,5,164575.87,3,1,4,314,Best Customers,Cluster 1
+Signal Gift Stores,184,3,72829.05,3,1,2,312,Best Customers,Cluster 1
+Atelier graphique,188,3,21213.16,2,1,1,211,Average Customers,Cluster 1
+Enaco Distributors,189,3,73927.0,2,1,2,212,Average Customers,Cluster 1
+Classic Legends Inc.,192,3,64121.82,2,1,2,212,Average Customers,Cluster 1
+La Corne D abondance  Co.,193,3,73965.52,2,1,3,213,Average Customers,Cluster 1
+Volvo Model Replicas  Co,194,4,58374.21,2,1,2,212,Average Customers,Cluster 1
+Mini Wheels Co.,195,3,60243.28,2,1,2,212,Average Customers,Cluster 1
+AV Stores  Co.,196,3,136873.25,2,1,4,214,Average Customers,Cluster 1
+Motor Mint Distributors Inc.,196,3,63091.46,2,1,2,212,Average Customers,Cluster 1
+Cruz & Sons Co.,197,3,80291.17,2,1,3,213,Average Customers,Cluster 1
+Land of Toys Inc.,198,4,138798.17,2,1,4,214,Average Customers,Cluster 1
+Rovelli Gifts,201,3,127143.64,2,1,4,214,Average Customers,Cluster 1
+Baane Mini Imports,208,4,95223.9,2,1,3,213,Average Customers,Cluster 1
+Blauer See Auto  Co.,208,4,66945.37,2,1,2,212,Average Customers,Cluster 1
+Vitachrome Inc.,208,3,67511.37,2,1,2,212,Average Customers,Cluster 1
+Online Diecast Creations Co.,209,3,101428.5,2,1,4,214,Average Customers,Cluster 1
+Microscale Inc.,210,2,28205.230000000003,2,1,1,211,Average Customers,Cluster 1
+Corrida Auto Replicas  Ltd,212,3,95243.42,2,1,3,213,Average Customers,Cluster 1
+giftsbymail.co.uk,212,2,73170.13,2,1,2,212,Average Customers,Cluster 1
+Heintze Collectables,222,2,77478.79000000001,2,1,3,213,Average Customers,Cluster 1
+Canadian Gift Exchange Network,222,2,60597.91,2,1,2,212,Average Customers,Cluster 1
+Toms Spezialitten  Ltd,228,2,79042.13,2,1,3,213,Average Customers,Cluster 1
+Mini Classics,229,2,73650.48,2,1,2,212,Average Customers,Cluster 1
+Classic Gift Ideas  Inc,230,2,56799.98,2,1,1,211,Average Customers,Cluster 1
+Marta s Replicas Co.,231,2,82219.39,1,1,3,113,Potential Customers,Cluster 1
+Auto Assoc. & Cie.,233,2,53364.97,1,1,1,111,Potential Customers,Cluster 1
+Iberia Gift Imports  Corp.,238,2,45684.78,1,1,1,111,Potential Customers,Cluster 1
+Clover Collections  Co.,258,2,43237.24,1,1,1,111,Potential Customers,Cluster 2
+Bavarian Collectables Imports  Co.,259,1,32701.58,1,1,1,111,Potential Customers,Cluster 2
+Online Mini Collectables,264,2,48385.01,1,1,1,111,Potential Customers,Cluster 2
+Amica Models & Co.,265,2,72645.01,1,1,2,112,Potential Customers,Cluster 2
+Herkku Gifts,271,3,86339.11,1,1,3,113,Potential Customers,Cluster 2
+Vida Sport  Ltd,275,2,93344.91,1,1,3,113,Potential Customers,Cluster 2
+Norway Gifts By Mail  Co.,284,2,64552.79,1,1,2,112,Potential Customers,Cluster 2
+Royal Canadian Collectables  Ltd.,285,2,71492.33,1,1,2,112,Potential Customers,Cluster 2
+Cambridge Collectables Co.,389,2,31147.37,1,1,1,111,Potential Customers,Cluster 2
+Super Scale Inc.,393,2,58413.33,1,1,2,112,Potential Customers,Cluster 2
+Diecast Collectables,401,2,56374.92,1,1,1,111,Potential Customers,Cluster 2
+Osaka Souveniers Co.,414,2,55620.65,1,1,1,111,Potential Customers,Cluster 2
+CAF Imports,439,2,40655.72,1,1,1,111,Potential Customers,Cluster 2
+Saveley & Henriot  Co.,456,3,118580.23,1,1,4,114,Potential Customers,Cluster 2
+Collectable Mini Designs Co.,460,2,78462.07,1,1,3,113,Potential Customers,Cluster 2
+Daedalus Designs Imports,465,2,56856.39,1,1,2,112,Potential Customers,Cluster 2
+Signal Collectibles Ltd.,476,2,39514.340000000004,1,1,1,111,Potential Customers,Cluster 2
+West Coast Collectables Co.,488,2,41506.23,1,1,1,111,Potential Customers,Cluster 2
+Double Decker Gift Stores  Ltd,495,2,31550.77,1,1,1,111,Potential Customers,Cluster 2
+Men  R  US Retailers  Ltd.,508,2,42093.78,1,1,1,111,Potential Customers,Cluster 2
