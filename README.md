@@ -110,3 +110,5 @@ Profit: Calculated as Profit = Total Retail - Total Cost.
 # Data Analysis:
 
 To address the key questions, we developed an interactive dashboard to analyze sales and inventory data. This dashboard allows users to filter and explore data by store, city, product, or specific time periods, providing a comprehensive view of the company's performance across various dimensions.
+
+![Power BI Visualization]("C:\Users\Hp\Desktop\Overall Performance.jpg")
