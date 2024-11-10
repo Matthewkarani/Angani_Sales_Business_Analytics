@@ -87,10 +87,22 @@ ContactFirstName:	First name of the customer contact person.
 Branch:	Branch or location responsible for handling the order.
 
 
-Dashboard & Insights
-Key Performance Indicators (KPIs)
-Total Sales: Tracks total sales volume across all products.
-Top Products: Lists highest-selling products by category.
-Customer Demographics: Visualizes customer distribution by location and order frequency.
-Sales Trends: Identifies peak sales periods and trends over time.
-Dashboard Screenshots
+# Data Cleaning and Preparation
+
+The data cleaning and preparation process includes the following steps:
+
+1. Import Files: Load all required files into Power BI.
+
+2. Remove Inconsistencies in the sales and Territory  column: Ensure data integrity by removing any inconsistency rows across all files.
+
+3. Data Type Conversion: Convert the temporal data   from  integer to Date format for accurate calculations.
+
+4. Establish Relationships: Connect the various files by setting up relationships using their respective primary and foreign keys.
+
+5. Calculate Financial Metrics: Since management prioritizes understanding the total cost, retail value, and profit for product creation, add three new columns in the sales file:
+
+Total Cost: Calculated as Total Cost = Units * Product Cost.
+
+Total Retail: Calculated as Total Retail = Units * Product Price.
+
+Profit: Calculated as Profit = Total Retail - Total Cost.
