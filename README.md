@@ -169,3 +169,11 @@ Long Term (6-12 months): Evaluate campaign success and consider market expansion
 Key Performance Indicators (KPIs):
 
 Track sales growth, customer retention, market expansion success, and stock availability.
+
+
+# Tools Used
+Power BI: For dashboard creation and data visualization.
+Python Programming (Plotly): For data cleaning and initial exploration.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
