@@ -7,6 +7,7 @@ This project aims to apply data analytics techniques to a real-world business ch
 # Business Problem
 
 A toy company, operating across various product categories, seeks to:
+
 a) Identify trends in overall business performance.
 
 b) Highlight the best and worst-selling products.
@@ -26,7 +27,7 @@ c) Enable the business to make data-driven decisions that enhance profitability 
 # Data Description
 The dataset is provided in an Excel workbook named Sales Data with the following components:
 
-**Main Data** Contains sales transaction details.
+_Main Data_ Contains sales transaction details.
 
 **Product Master** Lists product-specific information.
 
