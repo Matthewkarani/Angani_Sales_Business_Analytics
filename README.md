@@ -122,4 +122,6 @@ To address the key questions, we developed an interactive dashboard to analyze s
 
 ![Customer profiling](https://github.com/user-attachments/assets/996fd319-fdb9-4083-b09d-552b1bfadd4f)
 
+![Customer Segmention](https://github.com/user-attachments/assets/a4cdf176-ccfc-4f70-8d17-dfd80e5a11df)
+
 
