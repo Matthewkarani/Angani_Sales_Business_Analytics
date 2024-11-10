@@ -27,31 +27,65 @@ c) Enable the business to make data-driven decisions that enhance profitability 
 # Data Description
 The dataset is provided in an Excel workbook named Sales Data with the following components:
 
-_Main Data_ Contains sales transaction details.
+Main Data: Contains sales transaction details.
 
-**Product Master** Lists product-specific information.
+Product Master: Lists product-specific information.
 
-**Data Dictionary** Describes fields in both the Main Data and Product Master sheets.
+Data Dictionary: Describes fields in both the Main Data and Product Master sheets.
 
 # Dataset
 The dataset used in this project consists of multiple sheets, including Main Data, Product Master, and a Data Dictionary describing the following fields:
 
+# Field Name	Description
 Field Name	Description
-OrderNumber	Unique identifier for each order.
-QuantityOrdered	Number of units ordered per product.
-PriceEach	Price per unit of the product.
-OrderLineNumber	Line number of the product within the order.
-Sales	Total sales amount for the order line (calculated as QuantityOrdered * PriceEach).
-OrderDate	Date the order was placed.
-Status	Current status of the order (e.g., Shipped, Cancelled, Pending).
-QTR_ID	Quarter in which the order was placed.
-ProductLine	Product category or line.
-MSRP	Manufacturer's Suggested Retail Price for the product.
-CustomerName	Full name of the customer placing the order.
-City	City where the customer is located.
-Country	Country where the customer is located.
-Territory	Sales territory associated with the customer.
-For a full data dictionary, refer to the Data Description section in this README.
+OrderNumber	Unique: identifier for each order.
+
+QuantityOrdered:	Number of units ordered for a specific product.
+
+PriceEach:	Price per unit of the product.
+
+OrderLineNumber:	Line number of the product in the order, used to distinguish items in a single order.
+
+Sales: 	Total sales amount for the order line (calculated as QuantityOrdered * PriceEach).
+
+OrderDate:	Date when the order was placed.
+
+Status: 	Current status of the order (e.g., Shipped, Cancelled, Pending).
+
+QTR_ID:	Quarter in which the order was placed.
+
+DAY_ID: 	Day on which the order was placed.
+
+MONTH_ID:	Month in which the order was placed.
+
+YEAR_ID:	Year in which the order was placed.
+
+ProductLine:	Category or line to which the product belongs.
+
+MSRP:	Manufacturer's Suggested Retail Price for the product.
+
+ProductCode:	Unique code identifying the product.
+
+CustomerName:	Full name of the customer placing the order.
+
+Phone: 	Customer's contact phone number.
+
+AddressLine1:	First line of the customer's address.
+
+City:	City where the customer is located.
+
+PostalCode:	Postal or ZIP code for the customer's address.
+
+Country:	Country where the customer is located.
+
+Territory:	Geographical sales territory associated with the customer.
+
+ContactLastName:	Last name of the customer contact person.
+
+ContactFirstName:	First name of the customer contact person.
+
+Branch:	Branch or location responsible for handling the order.
+
 
 Dashboard & Insights
 Key Performance Indicators (KPIs)
