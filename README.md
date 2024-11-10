@@ -8,21 +8,29 @@ This project aims to apply data analytics techniques to a real-world business ch
 
 A toy company, operating across various product categories, seeks to:
 a) Identify trends in overall business performance.
+
 b) Highlight the best and worst-selling products.
+
 c) Understand customer profiles and preferences.
+
 d) Detect seasonal or trend-based patterns in sales.
 
 # Objectives
 
 a) Design a Power BI dashboard that provides interactive, high-impact visuals of key performance indicators (KPIs).
+
 b) Deliver insights on sales trends, customer segmentation, and product performance.
+
 c) Enable the business to make data-driven decisions that enhance profitability and growth.
 
 # Data Description
 The dataset is provided in an Excel workbook named Sales Data with the following components:
-**Main Data**: Contains sales transaction details.
-**Product Master**: Lists product-specific information.
-**Data Dictionary**: Describes fields in both the Main Data and Product Master sheets.
+
+**Main Data** Contains sales transaction details.
+
+**Product Master** Lists product-specific information.
+
+**Data Dictionary** Describes fields in both the Main Data and Product Master sheets.
 
 # Dataset
 The dataset used in this project consists of multiple sheets, including Main Data, Product Master, and a Data Dictionary describing the following fields:
