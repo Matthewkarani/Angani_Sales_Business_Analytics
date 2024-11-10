@@ -111,5 +111,15 @@ Profit: Calculated as Profit = Total Retail - Total Cost.
 
 To address the key questions, we developed an interactive dashboard to analyze sales and inventory data. This dashboard allows users to filter and explore data by store, city, product, or specific time periods, providing a comprehensive view of the company's performance across various dimensions.
 
-![Overall Performance](file:///C:/Users/Hp/Desktop/Overall%20Performance.jpg)
+
+![Overall Performance](https://github.com/user-attachments/assets/7916b817-9890-46bd-9fd3-f9b9ae48b39c)
+
+![Product Diversity](https://github.com/user-attachments/assets/49569715-c718-4422-b96b-85e51d7311e9)
+
+
+![Geospatial Analysis](https://github.com/user-attachments/assets/c8cb2bb4-0f90-4b5f-b21a-449ee5abb782)
+
+
+![Customer profiling](https://github.com/user-attachments/assets/996fd319-fdb9-4083-b09d-552b1bfadd4f)
+
 
