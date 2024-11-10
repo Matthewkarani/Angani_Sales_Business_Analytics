@@ -1,6 +1,6 @@
 # Toys Sales Analysis Using Power BI
 
-#Project Overview
+# Project Overview
 
 This project aims to apply data analytics techniques to a real-world business challenge. The objective is to analyze sales data from a toy business and build an intuitive dashboard that provides actionable insights for improving sales performance and supporting strategic decision-making.
 
