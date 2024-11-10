@@ -1,4 +1,4 @@
-## Toys Sales Analysis Using Power BI
+# Toys Sales Analysis Using Power BI
 
 #Project Overview
 
@@ -7,16 +7,24 @@ This project aims to apply data analytics techniques to a real-world business ch
 # Business Problem
 
 A toy company, operating across various product categories, seeks to:
-a) Identifying trends in overall business performance.
-b) Highlighting best and worst-selling products.
-c) Understanding customer profiles and preferences.
-d) Detecting seasonal or trend-based patterns in sales.
+a) Identify trends in overall business performance.
+b) Highlight the best and worst-selling products.
+c) Understand customer profiles and preferences.
+d) Detect seasonal or trend-based patterns in sales.
 
 # Objectives
-Design a Power BI dashboard that provides interactive, high-impact visuals of key performance indicators (KPIs).
-Deliver insights on sales trends, customer segmentation, and product performance.
-Enable the business to make data-driven decisions that enhance profitability and growth.
-Dataset
+
+a) Design a Power BI dashboard that provides interactive, high-impact visuals of key performance indicators (KPIs).
+b) Deliver insights on sales trends, customer segmentation, and product performance.
+c) Enable the business to make data-driven decisions that enhance profitability and growth.
+
+# Data Description
+The dataset is provided in an Excel workbook named Sales Data with the following components:
+**Main Data**: Contains sales transaction details.
+**Product Master**: Lists product-specific information.
+**Data Dictionary**: Describes fields in both the Main Data and Product Master sheets.
+
+# Dataset
 The dataset used in this project consists of multiple sheets, including Main Data, Product Master, and a Data Dictionary describing the following fields:
 
 Field Name	Description
