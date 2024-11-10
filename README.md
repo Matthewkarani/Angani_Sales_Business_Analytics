@@ -1,7 +1,6 @@
 # Toys Sales Analysis Using Power BI
 
-![Overall Performance](https://i.ytimg.com/vi/2fIXb2wWh1k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBDsSO86ka9HrdUYGRqXpfNwPCHiA)
-
+![Image Description](https://imgproxy.divecdn.com/E0doMk00LsvM5S2nrm_3nKorDrZ2von09Cr4qNRTCoI/g:ce/rs:fill:1200:675:1/bG9jYWw6Ly8vZGl2ZWltYWdlL1NjcmVlbnNob3RfMjAyMi0wMy0yM181LjA4LjE1X1BNLnBuZw==.webp)
 
 ## Group Members
 
