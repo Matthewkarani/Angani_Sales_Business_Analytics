@@ -106,3 +106,7 @@ Total Cost: Calculated as Total Cost = Units * Product Cost.
 Total Retail: Calculated as Total Retail = Units * Product Price.
 
 Profit: Calculated as Profit = Total Retail - Total Cost.
+
+# Data Analysis:
+
+To address the key questions, we developed an interactive dashboard to analyze sales and inventory data. This dashboard allows users to filter and explore data by store, city, product, or specific time periods, providing a comprehensive view of the company's performance across various dimensions.
