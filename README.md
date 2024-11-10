@@ -1,5 +1,18 @@
 # Toys Sales Analysis Using Power BI
 
+## Group Members
+
+Faith Wafula
+
+Lydiah Njeri
+
+Mathew Kararani
+
+Martin Karimi
+
+Nancy Maina
+
+
 # Project Overview
 
 This project aims to apply data analytics techniques to a real-world business challenge. The objective is to analyze sales data from a toy business and build an intuitive dashboard that provides actionable insights for improving sales performance and supporting strategic decision-making.
