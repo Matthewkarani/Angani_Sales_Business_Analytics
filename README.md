@@ -111,17 +111,25 @@ Profit: Calculated as Profit = Total Retail - Total Cost.
 
 To address the key questions, we developed an interactive dashboard to analyze sales and inventory data. This dashboard allows users to filter and explore data by store, city, product, or specific time periods, providing a comprehensive view of the company's performance across various dimensions.
 
+## Analysis of "Toy Sales Overall Performance" Dashboard
+The "Toy Sales Overall Performance" dashboard provides a comprehensive view of sales metrics, giving insight into total sales, monthly averages, peak season performance, and profitability. With total sales of $8.29M, the company maintains a strong monthly average of $690.91K. December is identified as the peak sales period, reaching $1.74M, likely due to holiday demand. The dashboard’s breakdown by product line shows that Classic Cars and Vintage Cars are the top contributors, driving $2.97M and $1.64M in sales, respectively. Regional sales data reveals that EMEA holds the largest market share at 49.77%, followed by North America with 38.35%. Customer insights highlight the Euro Shopping Channel as the top client with purchases amounting to $0.77M. Sales by day of the week demonstrate Friday as the most profitable, generating $1.81M. This information can aid in strategizing marketing efforts and stock allocation to maximize profitability and meet regional demand.
 
 ![Overall Performance](https://github.com/user-attachments/assets/7916b817-9890-46bd-9fd3-f9b9ae48b39c)
 
+## Analysis of "Toy Sales Product Diversity Analysis" Dashboard
+The "Toy Sales Product Diversity Analysis" dashboard emphasizes product variety and performance in relation to customer demand and regional popularity. With 99K units ordered, an average of 8.26K monthly orders, and a peak season sales volume of 1.74M, the dashboard highlights the scale of product movement. Classic Cars lead in quantity ordered across multiple years, reflecting consistent customer interest, followed by Vintage Cars and Motorcycles. Profitability analysis shows that the EMEA region yields the highest profit at $3.3M, showcasing its importance as a key market. North America follows with $1.1M, while APAC has lower profitability, indicating potential for targeted marketing. The quantity ordered status pie chart highlights 91K units as shipped, with minimal cancellations or disputes, underscoring effective inventory management. This dashboard is essential for understanding product performance and identifying trends across regions, enabling strategic product allocation and sales planning.
+
 ![Product Diversity](https://github.com/user-attachments/assets/49569715-c718-4422-b96b-85e51d7311e9)
 
+## Analysis of "Geospatial Analysis" Dashboard
+This dashboard, titled "Toy Sales Geospatial Analysis," provides a visual summary of toy sales data across different countries, broken down by region. Key performance indicators (KPIs) are highlighted at the top, showing total sales of $8.29 million, a profit of $2.90 million, sales in 19 countries, and 73 cities. The map displays sales by country, with bubble sizes indicating the volume of sales in each location. The data table on the right lists each region’s total sales and profit, with Spain, France, and the UK leading in the EMEA region. The USA has the highest sales and profit in the NA region, with $2.99 million in sales and over $1 million in profit. Interactive filters on the left allow users to view data by year, quarter, customer, branch, and status, enabling a customized view of sales trends. This dashboard provides a clear overview of sales distribution, profitability, and geographic performance.
 
 ![Geospatial Analysis](https://github.com/user-attachments/assets/c8cb2bb4-0f90-4b5f-b21a-449ee5abb782)
 
-
+## Analysis of "Toy Sales Customer Segmentation" Dashboard
+The "Toy Sales Customer Segmentation" dashboard offers insights into customer demographics, total sales, and profit distribution. With a customer base of 92, this dashboard displays the top and bottom-performing customers by revenue, providing a clear picture of customer loyalty and spending behavior. The Euro Shopping Channel emerges as the top customer with $0.77M in sales, while Microsale Inc. records the lowest at $28K, suggesting diverse customer engagement levels. Product line sales data shows Classic Cars as the most popular category, generating $2.97M, followed by Vintage Cars at $1.64M, indicating these as key areas for growth. Sales by day data reveal that Fridays yield the highest sales of $1.81M, while Tuesdays generate the lowest at $0.18M, which could inform promotional scheduling. This segmentation analysis aids in customer profiling, enabling personalized marketing strategies and product recommendations to enhance customer retention and maximize revenue.
 ![Customer profiling](https://github.com/user-attachments/assets/996fd319-fdb9-4083-b09d-552b1bfadd4f)
 
 ![Customer Segmention](https://github.com/user-attachments/assets/a4cdf176-ccfc-4f70-8d17-dfd80e5a11df)
 
-
+Recommendations 
